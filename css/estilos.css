@@ -1,0 +1,136 @@
+/*-- Header --*/
+.navbar{
+	top: 10px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #999;
+}
+
+.navbar{
+	background: black;
+}
+.jumbotron{
+	background: #428BCA;
+
+	color: #fff;
+	padding: 20px 0;
+}
+
+.jumbotron .titulo-blog{
+font-size: 35px;
+
+}
+
+
+/*-- Post --*/
+.main{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.post{
+	padding-bottom:20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #999; 
+}
+
+.post .post-title a{
+	color: #333;
+
+}
+
+.post .thumb {
+margin-right: 10px;
+width:40%;
+
+
+}
+
+.post .thumb img{
+	width: 100%;
+}
+.post .contenido-botones{
+width: 100%;
+
+}
+
+/*-- Media Query*/
+@media screen and (max-width: 768px){
+	.post .thumb{
+		width: 100%;
+		margin-bottom: 20px;
+		margin-right: 0px;
+	}
+
+}
+
+/*- dropdown-*/
+
+.collapse .nav .dropdown .dropdown-menu a:hover{
+	color: blue;
+}
+
+/*-- Categorias--*/
+.list-group a:hover {
+	color: blue;
+}
+
+.list-group-item-text:hover{
+	color: blue;
+}
+
+.list-group-item .list-group-item-heading:hover{
+	color:blue;
+}
+
+.clearflix .img-thumbnail{
+	height: 200px;
+}
+
+ .form-group_1{
+
+margin-top: 10px;
+
+ }
+
+ .form-group_2{
+
+margin-top: 10px;
+
+ }
+
+ .form-group_3{
+
+margin-top: 10px;
+
+ }
+
+ .form-group_4{
+
+margin-top: 10px;
+
+ }
+
+ .form-group_5{
+
+margin-top: 10px;
+
+ }
+
+ .form-group_6{
+
+margin-top: 10px;
+
+ }
+
+ .form-group_7{
+
+margin-top: 10px;
+
+ }
+
+ .form-group_8{
+
+margin-top: 10px;
+
+ }
+
